@@ -99,4 +99,9 @@ if __name__ == "__main__":
   - app.pyを見通しよく保つ為にsrcディレクトリで値や関数を作成する
   - サイトのtitleは`settings.site_title`として設定する
 
-[Semantic UI入門 よく使うコンポーネント - Qiita](https://qiita.com/sandabu/items/336fe312acbec98d21e3)
+## 参考サイト
+
+- [Welcome to Flask — Flask Documentation (2.1.x)](https://flask.palletsprojects.com/en/2.1.x/)
+- [Flaskへようこそ — Flask Documentation (2.0.x)](https://msiz07-flask-docs-ja.readthedocs.io/ja/latest/index.html)
+- [Semantic UI](https://semantic-ui.com/)
+- [Semantic UI入門 よく使うコンポーネント - Qiita](https://qiita.com/sandabu/items/336fe312acbec98d21e3)
